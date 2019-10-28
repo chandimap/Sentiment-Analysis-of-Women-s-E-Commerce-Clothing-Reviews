@@ -30,5 +30,7 @@ Each preprocessed “Review Text” is indicated as “Positive”, “Negative�
 
 A recurrent neural network (RNN) and a simple embedding deep neural network were implemented for sentiment classification.
 RNN reached an accuracy of 90% for sentiment classification.
+Simple embedding deep neural network reached an accuracy of 88% for sentiment classification.
+RNN was effective at predicting sentiment than simple embedding deep neural network.
 
 
